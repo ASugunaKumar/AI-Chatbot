@@ -85,4 +85,4 @@ The upgraded version shifts to a more intelligent approach by leveraging spaCy, 
    pip install spacy
    python -m spacy download en_core_web_sm
 
-This README provides a clear, professional overview of the project’s evolution from rule-based to NLP-driven, suitable for developers or visitors exploring your GitHub repo. If you’d like to tweak any part (e.g., add more technical details or simplify for a non-technical audience), let me know! 😊
+This README provides a clear, professional overview of the project’s evolution from rule-based to NLP-driven, suitable for developers or visitors exploring your GitHub repo.
